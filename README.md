@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-As someone who holds an insatiable willingness to learn, bearing a sense of curiosity that branches towards a thirst for knowledge, I have always been intrigued by the process of data science within the realm of health care, E-commerce, and tech. At the moment, I am pursuing my Masters in Business Analytics at UCLA Anderson. In the past, I have worked in LivingSpace Interiors, as an E-commerce and marketing data analyst intern; I have also been a research assistant, working alongside professors within the quantitative marketing field from my undergraduate university. The business-oriented projects I have conducted previously allowed me to demonstrate my tendency to pay attention to details, defining different metrics, thereby allowing me to monitor the health of various products. 
+My name is Felix, a passionate learner with an unquenchable curiosity and a strong desire for knowledge. I have always been fascinated by the application of data science in fields such as health care, e-commerce, and technology. Currently, I am pursuing my Master's in Business Analytics at UCLA Anderson.
+
+In the past, I have gained valuable experience working as an e-commerce and marketing data analyst intern at LivingSpace Interiors. Additionally, I served as a research assistant, collaborating with professors in the quantitative marketing field at my undergraduate institution. These business-focused projects have allowed me to showcase my meticulous attention to detail, as I defined various metrics to effectively monitor the performance of diverse products.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FHFelix)](https://github.com/anuraghazra/github-readme-stats)
